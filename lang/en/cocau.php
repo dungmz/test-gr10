@@ -1,0 +1,23 @@
+<?php
+return [
+  'cocau.title' => 'Organization Structure',
+  'cocau.search_placeholder' => 'Search units...',
+  'cocau.tab_school' => 'Schools • Faculties • Majors',
+  'cocau.tab_departments' => 'Departments',
+  'cocau.no_org' => 'No organization data to display.',
+  'cocau.no_error' => 'An error occurred while loading organization data.',
+  'cocau.school_empty' => 'No schools found.',
+  'cocau.faculty_empty' => 'No faculties found.',
+  'cocau.major_empty' => 'No majors found.',
+  'cocau.department_empty' => 'No department data.',
+  'cocau.department_code' => 'Department code',
+  'cocau.department_name' => 'Department name',
+  'cocau.department_email' => 'Email',
+  'cocau.department_phone' => 'Phone',
+  'cocau.department_address' => 'Address',
+  'cocau.faculty_lead' => 'Faculty head',
+  'cocau.position' => 'Position',
+  'cocau.close' => 'Close',
+  'cocau.no_head' => 'No faculty head yet',
+  'cocau.no_info' => 'No information',
+];

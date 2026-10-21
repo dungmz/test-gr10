@@ -1,0 +1,20 @@
+<?php
+return [
+  'dashboard.admin_title' => 'Bảng điều khiển (Admin)',
+  'dashboard.lecturer_title' => 'Bảng điều khiển - Giảng viên',
+  'dashboard.student_title' => 'Bảng điều khiển - Sinh viên',
+  'dashboard.quick_shortcuts' => 'Lối tắt nhanh',
+  'dashboard.manage_departments' => 'Quản lý phòng ban',
+  'dashboard.review_proposals' => 'Duyệt đề xuất',
+  'dashboard.system_info' => 'Thông tin hệ thống',
+  'dashboard.hello_name' => 'Xin chào {name}',
+  'dashboard.welcome_system' => 'Chào mừng bạn đến với {system}.',
+  'dashboard.left_nav_hint' => 'Chọn chức năng bên trái để quản lý dữ liệu.',
+  'dashboard.schools_desc' => 'Xem danh sách trường thuộc hệ thống.',
+  'dashboard.faculties_desc' => 'Xem danh sách các khoa và thông tin trưởng khoa.',
+  'dashboard.majors_desc' => 'Xem danh sách ngành đào tạo thuộc các khoa.',
+  'dashboard.programs_desc' => 'Xem thông tin chi tiết về các chương trình đào tạo.',
+  'dashboard.org_desc' => 'Xem thông tin cơ cấu tổ chức của nhà trường.',
+  'dashboard.my_proposals_desc' => 'Quản lý và theo dõi các đề xuất cá nhân.',
+  'dashboard.student_intro' => 'Dưới đây là các chức năng bạn có thể xem trong hệ thống.',
+];

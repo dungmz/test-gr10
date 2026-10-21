@@ -1,0 +1,20 @@
+<?php
+return [
+  'dashboard.admin_title' => 'Dashboard (Admin)',
+  'dashboard.lecturer_title' => 'Dashboard - Lecturer',
+  'dashboard.student_title' => 'Dashboard - Student',
+  'dashboard.quick_shortcuts' => 'Quick shortcuts',
+  'dashboard.manage_departments' => 'Manage departments',
+  'dashboard.review_proposals' => 'Review proposals',
+  'dashboard.system_info' => 'System information',
+  'dashboard.hello_name' => 'Hello {name}',
+  'dashboard.welcome_system' => 'Welcome to {system}.',
+  'dashboard.left_nav_hint' => 'Choose a feature on the left to manage data.',
+  'dashboard.schools_desc' => 'View the list of schools in the system.',
+  'dashboard.faculties_desc' => 'View faculties and dean information.',
+  'dashboard.majors_desc' => 'View majors under each faculty.',
+  'dashboard.programs_desc' => 'View details of training programs.',
+  'dashboard.org_desc' => 'View the university organization structure.',
+  'dashboard.my_proposals_desc' => 'Manage and track your proposals.',
+  'dashboard.student_intro' => 'Below are the features you can view in the system.',
+];

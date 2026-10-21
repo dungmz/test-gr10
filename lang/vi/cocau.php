@@ -1,0 +1,23 @@
+<?php
+return [
+  'cocau.title' => 'Cơ cấu tổ chức',
+  'cocau.search_placeholder' => 'Tìm kiếm đơn vị...',
+  'cocau.tab_school' => 'Trường • Khoa • Ngành',
+  'cocau.tab_departments' => 'Phòng ban',
+  'cocau.no_org' => 'Không có dữ liệu cơ cấu tổ chức để hiển thị.',
+  'cocau.no_error' => 'Có lỗi xảy ra khi truy xuất dữ liệu cơ cấu tổ chức.',
+  'cocau.school_empty' => 'Chưa có dữ liệu trường.',
+  'cocau.faculty_empty' => 'Chưa có khoa.',
+  'cocau.major_empty' => 'Chưa có ngành.',
+  'cocau.department_empty' => 'Chưa có dữ liệu phòng ban.',
+  'cocau.department_code' => 'Mã phòng',
+  'cocau.department_name' => 'Tên phòng ban',
+  'cocau.department_email' => 'Email',
+  'cocau.department_phone' => 'Số điện thoại',
+  'cocau.department_address' => 'Địa chỉ',
+  'cocau.faculty_lead' => 'Trưởng khoa',
+  'cocau.position' => 'Chức vụ',
+  'cocau.close' => 'Đóng',
+  'cocau.no_head' => 'Chưa có trưởng khoa',
+  'cocau.no_info' => 'Chưa có thông tin',
+];
